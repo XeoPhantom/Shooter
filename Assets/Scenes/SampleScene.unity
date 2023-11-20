@@ -5092,7 +5092,7 @@ GameObject:
   m_Layer: 0
   m_Name: SpawnPointA
   m_TagString: Untagged
-  m_Icon: {fileID: 7422848464349959988, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 2800000, guid: 250ad8d477b93bb438825bf9557ea107, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -6213,7 +6213,7 @@ GameObject:
   m_Layer: 0
   m_Name: SpawnPointB
   m_TagString: Untagged
-  m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 2800000, guid: 4cfeffd6000c93d4c98fb9ea384f2e8a, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -6396,11 +6396,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f9e703f2ad97f41b0d4624908bfd1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 5536982123188731088, guid: 5aa4137a729a35a448e5a24374f51f4a, type: 3}
+  bullet: {fileID: 4338667638106886850, guid: 03debeb6d76afcc4b9fe901790cf79d4, type: 3}
   parent: {fileID: 721164389}
   limitL: {fileID: 1923840854}
   limitR: {fileID: 1899504735}
-  speed: 0.1
+  speed: 0.05
 --- !u!4 &850372561 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6488187506806844336, guid: 380c184ecf7028c47902e62eb91c4e93, type: 3}
